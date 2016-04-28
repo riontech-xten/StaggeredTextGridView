@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f2b102</color>
+    <color name="colorPrimaryDark">#a87c01</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#fee6a2</color>
+
+    <color name="light_gray">#d8d9d8</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#f2b102</color>
+    <color name="darkest_yellow">#a87c01</color>
+    <color name="gray">#dddddd</color>
+    <color name="green">#36c3aa</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="color_fb">#3664a2</color>
+    <color name="color_twitter">#1ab2e8</color>
+    <color name="color_fb_selector">#CC3664a2</color>
+    <color name="color_twitter_selector">#CC1ab2e8</color>
+
+    <color name="dark_gray">#b9b9b9</color>
+    <color name="unselected_bet_color">#555555</color>
+    <color name="light_orang">#fc7455</color>
+    <color name="black_10">#1A000000</color>
+    <color name="gray_20">#33c3c3c3</color>
+    <color name="gray_30">#4Dc3c3c3</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_30">#4D000000</color>
+
+    <color name="background_tab_pressed">#66f2b102</color>
+    <color name="bg_tab">#f2b102</color>
+
+    <color name="material_indigo">#3f51b5</color>
+    <color name="material_yellow">#ffeb3b</color>
+    <color name="material_green">#4caf50</color>
+    <color name="material_blue">#2196f3</color>
+</resources>
