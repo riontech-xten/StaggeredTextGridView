@@ -8,7 +8,7 @@ A simple and more attractive custom text gridview designed base on metrial desig
 <img src="https://github.com/riontech-xten/StaggeredTextGridView/blob/master/Screenshot_2016-04-28-19-52-08.png" height="600" alt="StaggeredTextGridView"/>
 </br>
 
-# Setup
+### Setup
 To use **StaggeredTextGridView** in your projects, simply add the library as a dependency to your build.
 
 ##### Maven
@@ -36,7 +36,7 @@ The library is currently configured to be built via Gradle only. It has the foll
 * Compiled SDK Version        - lollipop-23
 * Supported Version           - sdk version >= 7
 
-# Usage
+### Usage
 For more detailed code example to use the library, Please refere the `/sample` app.
 
 `StaggeredTextGridView` can be added as a custom view to any layout.
@@ -56,11 +56,11 @@ CustomAdapter adapter = new CustomAdapter(this, wordJsonArray);
 staggeredTextGridView.setmAdapter(adapter);
 ```
 
-# TODO
+### TODO
 1. Item selector drawable
 2. Item click listener
 
-# Licence
+### Licence
 ```
 Copyright (c) 2016 Vaghela Mithun R.
 
