@@ -34,7 +34,7 @@ The library is currently configured to be built via Gradle only. It has the foll
 * Android Gradle plugin 2.1.0 - com.android.tools.build:gradle:2.1.0
 * Android Support appcompt-v7 - com.android.support:appcompat-v7:23.1.1
 * Compiled SDK Version        - lollipop-23
-* Supported Version           - sdk version >= 7
+* Supported Version           - >= 2.1
 
 ### Usage
 For more detailed code example to use the library, Please refere the `/sample` app.
