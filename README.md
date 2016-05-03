@@ -1,6 +1,6 @@
 # StaggeredTextGridView
-A simple and more attractive custom text gridview designed base on metrial design. 
-* Auto adjust columns base on device width and height. 
+A simple and attractive custom text GridView design based on matrial concepts. 
+* Auto adjustable column based on device width and height. 
 * Supported with portrait and landscape orientations. 
 * Extends [ScrollView](http://developer.android.com/reference/android/widget/ScrollView.html)
 
