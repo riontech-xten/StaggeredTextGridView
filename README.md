@@ -1,4 +1,4 @@
-# StaggeredTextGridView [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-StaggeredTextGridView-green.svg?style=true)](https://android-arsenal.com/details/1/3543)[ ![Download](https://api.bintray.com/packages/vaghelamithun/maven/staggeredtextgridview/images/download.svg) ](https://bintray.com/vaghelamithun/maven/staggeredtextgridview/_latestVersion)
+# StaggeredTextGridView [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-StaggeredTextGridView-green.svg?style=true)](https://android-arsenal.com/details/1/3543)
 
 A simple and attractive custom text GridView design based on material concepts. 
 * Auto adjustable column based on device width and height. 
