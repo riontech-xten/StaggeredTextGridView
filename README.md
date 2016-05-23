@@ -1,4 +1,4 @@
-# StaggeredTextGridView [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-StaggeredTextGridView-green.svg?style=true)](https://android-arsenal.com/details/1/3543)
+# StaggeredTextGridView [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-StaggeredTextGridView-green.svg?style=true)](https://android-arsenal.com/details/1/3543)[ ![Download](https://api.bintray.com/packages/vaghelamithun/maven/staggeredtextgridview/images/download.svg) ](https://bintray.com/vaghelamithun/maven/staggeredtextgridview/_latestVersion)
 
 A simple and attractive custom text GridView design based on material concepts. 
 * Auto adjustable column based on device width and height. 
@@ -17,16 +17,24 @@ To use **StaggeredTextGridView** in your projects, simply add the library as a d
 <dependency>
   <groupId>com.riontech.staggeredtextgridview</groupId>
   <artifactId>staggeredtextgridview</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <type>pom</type>
 </dependency>
 ```
 ##### Gradle
 ```
 dependencies {
-  compile 'com.riontech.staggeredtextgridview:staggeredtextgridview:1.0.0'
+  compile 'com.riontech.staggeredtextgridview:staggeredtextgridview:1.0.1'
 }
 ```
+
+##### Updated
+1.Added some custom attributes listed below
+* `horizontalSpace` - dimension (add space between coloumn)
+* `verticalSpace`   - dimension (add space between row)
+* `isFitToScreen`   - boolean (if true, last row set to fit into screen)
+
+2.Resolved issue of Word not completely visible
 
 Alternatively you can directly import the /library project into your Android Studio project and add it as a dependency in your build.gradle.
 
@@ -44,6 +52,10 @@ For more detailed code example to use the library, Please refere the `/sample` a
 
 ```
 <com.riontech.staggeredtextgridview.StaggeredTextGridView
+        custom:horizontalSpace="2dp"
+        custom:verticalSpace="2dp"
+        custom:isFitToScreen="false"
+        android:background="@color/white"
         android:id="@+id/staggeredTextView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
