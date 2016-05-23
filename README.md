@@ -7,6 +7,7 @@ A simple and attractive custom text GridView design based on material concepts.
 
 <br>
 <img src="https://github.com/riontech-xten/StaggeredTextGridView/blob/master/Screenshot_2016-04-28-19-52-08.png" height="600" alt="StaggeredTextGridView"/>
+<img src="https://github.com/riontech-xten/StaggeredTextGridView/blob/master/Screenshot_2016-05-23-14-54-26.png" height="600" alt="StaggeredTextGridView"/>
 </br>
 
 ### Setup
