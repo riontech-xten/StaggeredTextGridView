@@ -67,7 +67,7 @@ Simply create the object of `StaggeredTextGridView` and set your custom `BaseAda
 ```
 StaggeredTextGridView staggeredTextGridView = (StaggeredTextGridView) findViewById(R.id.staggeredTextView);
 CustomAdapter adapter = new CustomAdapter(this, wordJsonArray);
-staggeredTextGridView.setmAdapter(adapter);
+staggeredTextGridView.setAdapter(adapter);
 ```
 
 ### TODO
